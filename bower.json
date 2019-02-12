@@ -1,0 +1,20 @@
+{
+  "name": "nguyenhehe",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Bao Nguyen"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/netavietnamedu/nodejs-starter",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
